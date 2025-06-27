@@ -2,19 +2,19 @@
 
 This Streamlit-based project detects **motorbike riders**, **helmet usage**, and **vehicle number plates** in real-time using the **YOLOv8 object detection model** and **PaddleOCR** for optical character recognition.
 
-## 🔍 Features
+##  Features
 
 -  Helmet detection (with and without)
 -  Rider identification
-- ✅ Number plate detection and OCR
-- ✅ Support for:
+-  Number plate detection and OCR
+-  Support for:
   - Image upload
   - Video upload
   - Real-time webcam feed
-- ✅ Similarity filtering and confidence-based number plate recognition
-- ✅ Downloadable list of detected number plates
+-  Similarity filtering and confidence-based number plate recognition
+-  Downloadable list of detected number plates
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Frontend**: [Streamlit](https://streamlit.io/)
 - **Object Detection**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
@@ -23,7 +23,7 @@ This Streamlit-based project detects **motorbike riders**, **helmet usage**, and
 - **Language**: Python
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
