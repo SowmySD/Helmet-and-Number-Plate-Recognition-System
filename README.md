@@ -8,9 +8,9 @@ This Streamlit-based project detects **motorbike riders**, **helmet usage**, and
 -  Rider identification
 -  Number plate detection and OCR
 -  Support for:
-  - Image upload
-  - Video upload
-  - Real-time webcam feed
+  -- Image upload
+  -- Video upload
+  -- Real-time webcam feed
 -  Similarity filtering and confidence-based number plate recognition
 -  Downloadable list of detected number plates
 
